@@ -1,10 +1,10 @@
 
 import Navbar from './Navbar';
-import Home from './Home';
 import SearchBar from './SearchBar';
 import Description from './Description';
 import DescriptionTitle from './DescriptionTitle';
 import Footer from './Footer';
+import React from 'react';
 function App() {
 
 
